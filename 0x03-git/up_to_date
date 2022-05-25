@@ -1,0 +1,6 @@
+git branch
+git checkout
+git add .
+git commite -m 'message'
+git pull
+git push
